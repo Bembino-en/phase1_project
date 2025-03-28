@@ -6,7 +6,7 @@ The aviation industry is committed to enhancing safety measures and reducing acc
 
 ## 2. Business Understanding
 
-The primary stakeholders for this analysis include airline operators, aircraft manufacturers, regulatory bodies, and passengers. The key business questions addressed in this project are:
+The primary stakeholders for this analysis are . The key business questions addressed in this project are:
 
 - **What are the trends in aviation accidents over the years?**
   - Understanding whether aviation safety has improved or declined over time.
@@ -33,13 +33,13 @@ This project utilizes data from reputable aviation safety databases, including i
 **Key Visualizations:**
 
 - **Trends in Aviation Accidents Over the Years:**
-  ![Visualization of Accidents Trend over the years](images/tren.png)
+  ![Visualization of Accidents Trend over the years](images/trend.png)
 
 - **Accident Counts by Aircraft Manufacturer(Top 15):**
-  ![Visualization of 15  Aircraft Makes with highest accident count](images/acc_count.png)
+  ![Visualization of 15  Aircraft Makes with highest accident count](images/accidents_count.png)
 
 - **Survival Rates by Aircraft Model(Top 15):**
-  ![Visualization of Aircraft Makes Survival Rates](images/surv.png)
+  ![Visualization of Aircraft Makes Survival Rates](images/survive.png)
 
 ## 4. Conclusion
 
