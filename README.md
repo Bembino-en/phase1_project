@@ -33,13 +33,13 @@ This project utilizes data from reputable aviation safety databases, including i
 **Key Visualizations:**
 
 - **Trends in Aviation Accidents Over the Years:**
-  ![Visualization of Accidents Trend over the years](images/trend.png)
+  ![Visualization of Accidents Trend over the years](images/image1.png)
 
 - **Accident Counts by Aircraft Manufacturer(Top 15):**
-  ![Visualization of 15  Aircraft Makes with highest accident count](images/accidents_count.png)
+  ![Visualization of 15  Aircraft Makes with highest accident count](images/image2.png)
 
 - **Survival Rates by Aircraft Model(Top 15):**
-  ![Visualization of Aircraft Makes Survival Rates](images/survive.png)
+  ![Visualization of Aircraft Makes Survival Rates](images/image3.png)
 
 ## 4. Conclusion
 
