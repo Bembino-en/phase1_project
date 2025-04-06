@@ -52,3 +52,4 @@ Based on the analysis, the following recommendations are proposed:
 3. Conduct Further Safety Evaluations Before Purchase – Beyond historical data, factors such as maintenance records, technological advancements, and compliance with modern aviation safety standards should be assessed to ensure long-term operational safety and reliability.
 
 By focusing on these areas, stakeholders can make informed decisions to improve aviation safety and reduce accident rates.
+Link to interactive dashboard: https://dub01.online.tableau.com/t/kipkemoidenis706-7d50ad1bc3/views/projectT/Dashboard1
